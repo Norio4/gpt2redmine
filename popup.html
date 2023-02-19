@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+      <meta charset="utf-8">
+      <title>Selected Counter</title>
+      <link rel="stylesheet" href="bulma.css">
+      <link rel="stylesheet" href="popup.css">
+    </head>
+    <body>
+        <div id="main">
+            <div class="container" id="input">
+                <div class="field">
+                    <label class="label">API TOKEN</label>
+		    <input class="input" type="textbox" id="input_token">
+                    <label class="label">Redmine URL</label>
+		    <input class="input" type="textbox" id="input_url">
+                    <label class="label">Redmine ProjectId</label>
+		    <input class="input" type="textbox" id="input_project_id">
+                    <label class="label">Redmine TrackerId</label>
+		    <input class="input" type="textbox" id="input_tracker_id">
+		</div>
+		<button class="button" id="save_button">Save Redmine Info</button>
+            </div>
+            <div class="container">
+		<button class="button" id="clear_button">Reset Info</button>
+           </div>
+            <div class="container">
+		    <p id="result"></p>
+           </div>
+        </div>
+        <script src="popup.js"></script>
+    </body>
+</html>
