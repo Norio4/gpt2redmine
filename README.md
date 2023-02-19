@@ -1,13 +1,5 @@
 <p>Gpt2Redmine</p>
 
-Simple Url Clip Box For Volatile Stock
-Have you ever wanted to temporarily save a URL in your browser, such as when you are doing research on the web?
-Have you ever thought that you want to remember the existence of a page that is not important enough to save in your bookmarks?
-This extension is for you!
-This extension is simple!
-
-It allows you to temporarily save URLs and other page information and download them as CSV. Once downloaded, the saved information will be deleted.
-It can be used casually for really temporary purposes, so you can expand your short-term memory with this feature!
 
 Furthermore, this extension is OSS.
 
